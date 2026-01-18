@@ -8,6 +8,7 @@
 
 [![Made with Streamlit](https://img.shields.io/badge/Made%20with-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io)
 [![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq-000000?style=flat-square)](https://groq.com)
+[![Powered by Google Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-4285F4?style=flat-square&logo=google)](https://ai.google.dev)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
@@ -21,7 +22,7 @@
 
 **Study-Buddy** is an intelligent learning assistant designed for IIIT Sri City students. It combines the power of **Retrieval-Augmented Generation (RAG)**, **conversational AI**, and **document processing** to help students learn more effectively.
 
-Upload your study materials, ask questions, and even generate professional question papers—all powered by cutting-edge AI.
+Upload your study materials, ask questions, and even generate professional question papers—all powered by cutting-edge AI from **Groq** and **Google Gemini**.
 
 ---
 
@@ -43,7 +44,7 @@ Upload your study materials, ask questions, and even generate professional quest
 - Natural dialogue with context memory
 - Works with or without uploaded documents
 - General knowledge questions answered intelligently
-- Powered by Groq's Llama 3.3 70B model
+- Powered by Groq's Llama 3.3 70B + Google Gemini models
 
 ### 🎨 **Beautiful Apple-Style UI**
 - Dark gradient theme inspired by Apple.com
@@ -109,7 +110,7 @@ Upload your study materials, ask questions, and even generate professional quest
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/study-buddy.git
+   git clone https://github.com/harshit612007/study-buddy.git
    cd study-buddy
    ```
 
@@ -142,6 +143,7 @@ Upload your study materials, ask questions, and even generate professional quest
 |------------|---------|
 | **Streamlit** | Web framework for the UI |
 | **Groq** | LLM API (Llama 3.3 70B) |
+| **Google Gemini** | Alternative LLM support |
 | **LangChain** | RAG orchestration |
 | **HuggingFace** | Free embeddings model |
 | **FAISS** | Vector database for search |
@@ -322,7 +324,7 @@ pip install -r requirements.txt
 - [Streamlit Docs](https://docs.streamlit.io)
 - [Groq Documentation](https://console.groq.com/docs)
 - [LangChain Guide](https://python.langchain.com)
-- [Open an Issue](https://github.com/yourusername/study-buddy/issues)
+- [Open an Issue](https://github.com/harshit612007/study-buddy/issues)
 
 ---
 
@@ -348,7 +350,7 @@ Contributions are welcome! Here's how you can help:
 ### Development Setup
 ```bash
 # Clone your fork
-git clone https://github.com/yourusername/study-buddy.git
+git clone https://github.com/harshit612007/study-buddy.git
 
 # Create virtual environment
 python -m venv venv
@@ -372,6 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - **Groq** - For providing fast LLM inference
+- **Google Gemini** - For powerful AI capabilities
 - **Streamlit** - For the amazing web framework
 - **HuggingFace** - For free embedding models
 - **LangChain** - For RAG orchestration
@@ -382,10 +385,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer:** Your Name  
+**Developer:** Harshit Pansari  
 **Email:** harshitpansari15@gmail.com  
-**GitHub:**  https://github.com/harshit612007
-**LinkedIn:** https://www.linkedin.com/in/harshit-pansari-065514383?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Bsg8bk2FQ6WLHkrO4pL3OQ%3D%3D
+**GitHub:** [@harshit612007](https://github.com/harshit612007)  
+**LinkedIn:** [Harshit Pansari](https://www.linkedin.com/in/harshit-pansari-065514383)
 
 ---
 
@@ -414,21 +417,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/study-buddy&type=Date)](https://star-history.com/#yourusername/study-buddy&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=harshit612007/study-buddy&type=Date)](https://star-history.com/#harshit612007/study-buddy&Date)
 
 ---
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/study-buddy?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/study-buddy?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/study-buddy?style=social)
+![GitHub stars](https://img.shields.io/github/stars/harshit612007/study-buddy?style=social)
+![GitHub forks](https://img.shields.io/github/forks/harshit612007/study-buddy?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/harshit612007/study-buddy?style=social)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for students, by Harshit**
+**Made with ❤️ for students, by students**
 
 [⬆ Back to Top](#-study-buddy)
 
