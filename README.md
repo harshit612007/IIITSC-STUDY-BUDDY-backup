@@ -431,7 +431,9 @@ If you find this project helpful, please consider giving it a star! ⭐
 
 <div align="center">
 
-**Made with ❤️ for students, by students**
+**Made with ❤️ for students, by Harshit**
+
+PS:The readme is generated with the help of OpenAi
 
 [⬆ Back to Top](#-study-buddy)
 
